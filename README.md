@@ -1,6 +1,5 @@
 # Schwartz Monitor Plugin for Grails
-[![Release](https://jitpack.io/v/User/Repo.svg?style=flat-square)]
-(https://jitpack.io/#dandalf/grails-schwartz-monitor)
+[![1.3.1](https://jitpack.io/v/dandalf/grails-schwartz-monitor.svg?style=flat-square)](https://jitpack.io/#dandalf/grails-schwartz-monitor)
 
 This plugin is a fork of the [quartz-monitor](https://grails.org/plugin/quartz-monitor) plugin and supports
 the Grails [Quartz](https://plugins.grails.org/plugin/quartz) and Grails [Schwartz](https://plugins.grails.org/plugin/schwartz) plugins.
